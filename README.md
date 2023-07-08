@@ -1,2 +1,2 @@
 # goit-markup-hw-01
-#https://github.com/gsrrgm/goit-markup-hw-01.git
+# https://gsrrgm.github.io/goit-markup-hw-01/
